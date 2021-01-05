@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+![]("p1_navigation/banana.gif")
 Project Overview
 ________________________________________
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.
