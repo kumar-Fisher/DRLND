@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Overview
 ________________________________________
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.
@@ -38,3 +39,6 @@ pip install torchsummary unityagents
 Step 1: Clone the repo
 
 Clone this repo using git clone https://github.com/kumar-Fisher/DRLND.git.
+=======
+# DRLND
+>>>>>>> 68c190340c90dfdb01f004e4fe4e07ca57d533ff
