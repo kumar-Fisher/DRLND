@@ -35,8 +35,11 @@ The agent interacts with the environment and learns using Deep Deterministic Pol
 
 Discount factor (gamma) for training is set high at 0.99 and the exploration value epsilon start at high value (1.0) but then gradually going 
 down to 0.01. The target average score of 13 or higher in 100 episodes window was achieved in 472 episodes. The learning progress is shown below.
+### Graph Score vs Episode
+![Learning Scores](./image/score_vs_episode.png)  
 
-![Learning Scores](./image/score_vs_episode.PNG)
+#### Avrage Score 
+![avrage Score](./image/avrage.png)
 
 ### Hyperparameters
 The two most important things in order to achieve the target are to set Ornstein-Uhlenbeck noise sigma to 0.2 and implementing batch normalization. Without batch normalization and noise sigma of 0.2, the average score stacked at maximum of around +3. 
