@@ -17,3 +17,6 @@ Please follow the instruction to [setup Python environment](https://github.com/u
 [Continuous Control](./p2_continuous-control/Continuous_Control.ipynb)
 ![Continuous Control GIF1](./p2_continuous-control/p2_continous-control.gif)
 
+#### Project 3: Collaboration and Competition
+[Continuous Control](./p3_collab-compet/Tennis.ipynb)
+![Continuous Control GIF1](./p3_collab-compet/TENNIS.gif)
